@@ -1,8 +1,6 @@
 # Tugas Pertemuan 05
 
-A new Flutter project.
-
-Miftah Yuzar A (2006035) 
+A new Flutter project. 
 
 ## Getting Started
 
